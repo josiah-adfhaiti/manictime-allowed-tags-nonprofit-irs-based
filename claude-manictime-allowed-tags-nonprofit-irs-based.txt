@@ -1,0 +1,205 @@
+fundraising,
+, planifikasyon,.
+, preparasyon grant,
+,, naratif,.
+,, bidje,.
+,, dokiman sipò,.
+, redaksyon grant,.
+, soumèt grant,.
+, rapo grant,
+,, naratif,.
+,, finansye,.
+, rechech,
+,, nouvo bailleur,.
+,, done founisè,.
+,, opòtinite finans,.
+, donatè,
+,, swivi donatè,.
+,, dosye donatè,.
+,, kominikasyon,
+,,, email,.
+,,, rezo sosyal,.
+,,, sit entènèt,.
+,,, bilten enfòmasyon,.
+, evenman,
+,, planifikasyon,.
+,, egzekisyon,.
+, reyinyon,
+,, entern,.
+,, ekstèn,.
+
+management,
+, admin,.
+, absan,
+,, konje nasyonal,.
+,, konje maladi,.
+,, konje anyel,.
+,, konje patenite,.
+,, konje matenite,.
+management,
+, akizisyon,.
+management,
+, asirans,
+,, responsablite,.
+,, pwopriyete,.
+,, travayè,.
+management,
+, kominikasyon,
+,, email,.
+,, memo entern,.
+,, rapò administrasyon,.
+management,
+, konpyans-legal,
+,, 990 preparasyon,.
+,, estatiti - règleman,.
+,, dosye legal,.
+,, kontra revizyon,.
+management,
+, it,
+,, entenet,.
+,, enstale hardware,.
+,, enstale lojisyel,.
+,, enstale Office 365,.
+,, reparasyon hardware,.
+,, depanaj,.
+,, jesyon enprimant,.
+,, sekirite done,.
+management,
+, kontabilite,
+,, rekonsiliasyon bank,.
+,, quickbooks,.
+,, payroll,.
+,, dgi,.
+,, timeclock,.
+,, form 990 preparasyon,.
+,, odit preparasyon,.
+,, peman founisè,.
+,, rapo grant finansye,.
+,, bidje aniyèl,.
+management,
+, planifikasyon,
+,, jounen,.
+,, semèn,.
+,, estratejik,.
+,, plan operasyonèl,.
+management,
+, rechech,
+,, lojisyel,.
+,, zouti teknolojik,.
+,, gis - koleksyon done,.
+,, gouvenans,.
+,, best practices,.
+management,
+, resous imen,
+,, sipèvizyon,.
+,, rekritman,.
+,, onboarding,.
+,, etablisman objektif,.
+,, fomasyon,.
+,, evalyasyon pèfòmans,.
+,, dosye pèsonèl,.
+,, konpensasyon revizyon,.
+,, tag manictime,.
+management,
+, reyinyon,
+,, ekip,.
+,, tèt-a-tèt,.
+,, konsey administrasyon,.
+,, komite,.
+management,
+, gouvenans,
+,, preparasyon konsey,.
+,, dosye konsey,.
+,, devlopman politik,.
+,, conflict of interest,.
+,, transparency,.
+management,
+, jesyon risk,.
+management,
+, jesyon enstalasyon,.
+management,
+, devyasyon,
+,, deranjman eksten,.
+,, chanjman tach,.
+,, ba priyorite,.
+,, pwoblem entenet,.
+,, pwoblem kouran,.
+,, tan pedi,.
+,, tize,.
+
+pwogram,
+, entern,
+,, sipò it,
+,,, jesyon sit web,.
+,, gis - koleksyon done,.
+,, kowòdinasyon,
+,,, reyinyon,.
+,, pwojè,
+,,, devlopman gouvènman lokal,.
+,,, edikasyon fdb,.
+,,, konkou pwojè 2021,.
+,,, hdi - ekitek 2022-2023,.
+,, sèvis manm,
+,,, elaborasyon pwopozisyon,.
+,,, legalizasyon,.
+,,, gis - koleksyon done,.
+,,, fomasyon,.
+,,, asistans teknik,.
+,,, reyinyon,.
+,, rapò pwogram,.
+,, evalyasyon pwogram,.
+
+pwogram,
+, kontra,
+,, bracing neighbors 2025, :billable,
+,,, koleksyon done,.
+,,, rapò,.
+,, hcdf, :billable,
+,,, fem lomon faz 2,.
+,,, travay det pre-drone,.
+,, hdi, :billable,
+,,, sipò koleksyon done,.
+,, wkkf, :billable,
+,,, sipò slack,.
+,, werobotics, :billable,
+,,, ripples project,.
+,, hfsa, :billable,
+,,, jeneral,.
+,,, kontra baz done,.
+,, acesso, :billable,
+,,, sc03 gis,.
+,, aza, :billable,
+,,, envantè resous agrikòl,.
+,,, sc00 gis,.
+,, adaptiv, :billable,
+,,, summits education 2022,.
+,,, svlc 2023,.
+
+monitè-evalyasyon,
+, planifikasyon m&e,.
+, koleksyon done,.
+, analiz done,.
+, rapò,
+,, rapò donatè,.
+,, rapò entern,.
+, vizit tèren,.
+, sondaj benefisyè,.
+, dokimantasyon enpak,.
+
+angajman kominote,
+, reyinyon kominote,.
+, aktivite kominote,.
+, kowòdinasyon patenarya,.
+, angajman pati prenann,.
+, relasyon lokal,.
+
+lot,
+, absan - rezon pa klè,.
+, pèsonèl,.
+, aktivite divès,.
+, pa kategorize,.
+
+pa travay,
+, pèsonèl,.
+, manje midi,.
+, poz,.
