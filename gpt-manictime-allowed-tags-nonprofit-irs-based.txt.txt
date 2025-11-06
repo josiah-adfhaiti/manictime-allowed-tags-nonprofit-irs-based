@@ -1,0 +1,117 @@
+fundraising,
+, planifikasyon, estratejik,.
+, preparasyon grant,
+,, naratif,.
+,, bidjè,.
+,, dokiman sipò,.
+,, soumèt,.
+, rapò grant,
+,, naratif,.
+,, finansye,.
+, donatè,
+,, rechèch,.
+,, swivi,.
+, kominikasyon,
+,, imèl,.
+,, rezo sosyal,.
+, reyinyon,.
+
+management,
+, planifikasyon,
+,, jounen,.
+,, chak semèn,.
+,, estratejik,.
+, kominikasyon,
+,, imèl,.
+,, memo,.
+, resous imen,
+,, sipèvizyon,.
+,, rekritman,.
+,, fikse objektif,.
+,, fòmasyon,.
+,, evalyasyon pèfòmans,.
+, kontablite,
+,, bank,.
+,, quickbooks,.
+,, payroll,.
+,, dgi,.
+,, timeclock,.
+,, irs form 990,.
+,, peman founisè,.
+,, rapò grant,.
+, it,
+,, entènet,.
+,, enstale materyèl,.
+,, repare materyèl,.
+,, konfigirasyon lojisyèl,.
+,, office 365,.
+,, enprimant,.
+,, depanaj,.
+, gouvènans,
+,, tablo administrasyon, reyinyon,.
+,, tablo administrasyon, preparasyon,.
+,, politik, devlopman,.
+, reyinyon,.
+, entèripsyon,
+,, ekstèn,.
+,, chanje tach,.
+,, ba priyorite,.
+,, entènet desann,.
+,, kouran koupe,.
+,, lòt,.
+
+program,
+, entèn,
+,, sipò it,.
+,, jesyon sit wèb,.
+,, gis,
+,,, koleksyon done,.
+,, kowòdinasyon,.
+,, reyinyon,.
+,, pwojè,
+,,, devlopman gouvènman lokal,.
+,,, edikasyon fdb,.
+,,, konkou pwojè 2021,.
+,,, hdi equitech 2022-2023,.
+,, sèvis manm,
+,,, pwopozisyon bous,.
+,,, legalizasyon,.
+,,, gis, koleksyon done,.
+,,, fòmasyon,.
+,,, reyinyon,.
+, kontra,
+,, pwojè,
+,,, bracing neighbors 2025, koleksyon done, :billable,.
+,,, hcdf, fem lomon faz 2, :billable,.
+,,, hcdf, travay dèt pre dronn, :billable,.
+,,, hdi, sipò koleksyon done, :billable,.
+,,, wkkf, sipò Slack, :billable,.
+,,, werobotics, :billable,.
+,,, werobotics, ripples project, :billable,.
+,,, hfsa, jeneral, :billable,.
+,,, hfsa, kontra baz done, :billable,.
+,,, acesso, sc03 gis, koleksyon done, :billable,.
+,,, aza, envantè resous agrikòl, :billable,.
+,,, aza, sc00 gis, koleksyon done, :billable,.
+,,, adaptiv, summits education 2022, :billable,.
+,,, adaptiv, svlc 2023, :billable,.
+
+siveyans-evalyasyon,
+, koleksyon done,.
+, netwayaj ak analiz done,.
+, rapò,.
+, vizit sou teren,.
+, sondaj benefisyè,.
+, aprantisaj ak adaptasyon,.
+
+angajman kominotè,
+, reyinyon,.
+, evènman,.
+, kowòdinasyon patnè,.
+, angajman aktè,.
+, volontè, jesyon,.
+
+pa travay,
+, pèsonèl,.
+, manje midi,.
+, poz,.
