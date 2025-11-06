@@ -1,0 +1,101 @@
+fundraising,.
+fundraising, preparasyon grant,.
+fundraising, rapo grant,.
+fundraising, rechech nouvo donate,.
+fundraising, reyinyon,.
+fundraising, rezo sosyal-medya sosyal,.
+fundraising, kominikasyon,.
+fundraising, kominikasyon, email,.
+lot,.
+lot, absan,.
+lot, pesonel,.
+management,.
+management, absan,.
+management, absan, konje nasyonal,.
+management, absan, konje maladi,.
+management, absan, konje anyel,.
+management, absan, konje patenite,.
+management, absan, konje matenite,.
+management, akizisyon-acha materyel,.
+management, kominikasyon,.
+management, kominikasyon, email,.
+management, it,.
+management, it, entenet, .
+management, it, enstale hardware,.
+management, it, enstale - konfigire lojisyel,.
+management, it, enstale - konfigire office 365,.
+management, it, reparasyon hardware,.
+management, it, reparasyon pwoblem enfomatik,.
+management, it, biznis enprimant - yon sel kontwol,.
+management, deviyasyon,.
+management, deviyasyon, deranjman eksten,.
+management, deviyasyon, tranzisyon ant tach,.
+management, deviyasyon, pa enpotan-priyorite,.
+management, deviyasyon, pwoblem entenet,.
+management, deviyasyon, pwoblem kouran,.
+management, deviyasyon, tan pedi,.
+management, deviyasyon, tize,.
+management, kontabilite,.
+management, kontabilite, bank,.
+management, kontabilite, rapo grant,.
+management, kontabilite, quickbooks,.
+management, kontabilite, payroll,.
+management, kontabilite, dgi,.
+management, kontabilite, timeclock,.
+management, kontabilite, fom 990 irs,.
+management, kontabilite, alliance verte,.
+management, kontabilite, creus,.
+management, kontabilite, yon sel kontwol,.
+management, kontabilite, biznis enprimant,.
+management, planifikasyon,.
+management, planifikasyon, jounen,.
+management, poz,.
+management, rechech,.
+management, rechech, lojisyel,.
+management, rechech, gis - koleksyon done,.
+management, rechech, gouvenans,.
+management, resous imen,.
+management, resous imen, ankadreman,.
+management, resous imen, abochman - rekritman,.
+management, resous imen, etablisman bi,.
+management, resous imen, fomasyon,.
+management, resous imen, tag aktivite manictime,.
+management, reyinyon,.
+management, reyinyon, ekip,.
+management, reyinyon, endividyel,.
+management, reyinyon, gouvenans - konsey administrasyon,.
+program service,.
+program service, enten,.
+program service, enten, it,.
+program service, enten, it, jesyon sit web,.
+program service, enten, gis - koleksyon done,.
+program service, enten, kowodinasyon,.
+program service, enten, kowodinasyon, reyinyon,.
+program service, enten, pwoje,.
+program service, enten, pwoje, devlopman gouvenman lokal,.
+program service, enten, pwoje, edikasyon fdb,.
+program service, enten, pwoje, konkou pwoje 2021,.
+program service, enten, pwoje, hdi - ekitek - equitech 2022-2023,.
+program service, enten, sevis manm,.
+program service, enten, sevis manm, elaborasyon bous,.
+program service, enten, sevis manm, legalizasyon,.
+program service, enten, sevis manm, gis - koleksyon done,.
+program service, enten, sevis manm, fomasyon,.
+program service, enten, sevis manm, reyinyon,.
+program service, enten, lot,.
+program service, pou pwofi,.
+program service, pou pwofi, pwoje,.
+program service, pou pwofi, pwoje, bracing neighbors - kore vwazen, koleksyon done sid 2025,.
+program service, pou pwofi, pwoje, hcdf, fem lomon faz 2,.
+program service, pou pwofi, pwoje, hcdf, travay det pre dwonn,.
+program service, pou pwofi, pwoje, hdi, sipo koleksyon done,.
+program service, pou pwofi, pwoje, wkkf, sipo slack,.
+program service, pou pwofi, pwoje, werobotics,.
+program service, pou pwofi, pwoje, werobotics, ripples project,.
+program service, pou pwofi, pwoje, hfsa, jeneral,.
+program service, pou pwofi, pwoje, hfsa, kontra baz done,.
+program service, pou pwofi, pwoje, acesso, sc03 gis - koleksyon done,.
+program service, pou pwofi, pwoje, aza, envantè resous agrikòl,.
+program service, pou pwofi, pwoje, adaptiv, summits education 2022,.
+program service, pou pwofi, pwoje, adaptiv, svlc 2023,.
+program service, pou pwofi, pwoje, aza, sc00 gis - koleksyon done,.
